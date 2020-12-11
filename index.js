@@ -34,7 +34,7 @@ var questions = [{
   question: "In which std did Sohan give his first speech?(Ans in digit) ",
   answer: "5"
 },{
-  question: "Which is Sohan's favorite IPL team",
+  question: "Which is Sohan's favorite IPL team? ",
   answer: "Mumbai Indians"
 },{
   question: "Where does Sohan like to go the most to enjoy(Hint:city)? ",
@@ -46,7 +46,7 @@ var questions = [{
   question: "What was the name of Sohan's favourite dog? ",
   answer: "Tommy"
 },{
-  question: "Which is Sohan's fav game ",
+  question: "Which is Sohan's fav game? ",
   answer: "CSGO"
 }]
 //loop
